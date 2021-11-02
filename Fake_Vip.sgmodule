@@ -18,4 +18,4 @@ http-response ^https:\/\/license\.pdfexpert\.com\/api\/.*\/documents\/subscripti
 http-response ^https:\/\/planner5d\.com\/api\/sets script-path=https://raw.githubusercontent.com/langkhach270389/Quantumult-X-LK/master/Scripts/langkhach/planner5d.js
 
 [MITM]
-hostname = %APPEND% , spclient.wg.spotify.com, api.termius.com, api.calm.com, www.calm.com, license.pdfexpert.com, subs.platforms.team, splice.oracle.*.com, planner5d.com, buy.itunes.apple.com, api-cs.intsig.net
+hostname = %APPEND% , spclient.wg.spotify.com, api.termius.com, api.calm.com, www.calm.com, license.pdfexpert.com, subs.platforms.team, splice.oracle.*.com, planner5d.com, buy.itunes.apple.com, api.pushover.net, api-cs.intsig.net, api.overhq.com, api.appsyscode.com, api.freeletics.com, api.shred.app, receipt-validator.herewetest.com, api.deezer.com, iap.aps-sdk.com, education.github.com, backend.getdrafts.com, 
