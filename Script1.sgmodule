@@ -18,8 +18,8 @@ DOMAIN,app-site-association.cdn-apple.com,REJECT
 DOMAIN-SUFFIX,www.cordcloud.one,𝗣𝗥𝗢𝗫𝗬
 DOMAIN,yypro.net,𝗣𝗥𝗢𝗫𝗬
 # > Passkey
-DOMAIN,ql.lowking.pro,服务器 01
-DOMAIN-KEYWORD,domplingyaya.xyz,服务器 02
+# DOMAIN,ql.lowking.pro,服务器 01
+# DOMAIN-KEYWORD,domplingyaya.xyz,服务器 02
 # > 爱奇艺 去暂停广告
 DOMAIN-SUFFIX,cupid.iqiyi.com,REJECT
 # > 人人视频 去广告
