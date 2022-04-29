@@ -41,7 +41,7 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/,REJECT-TINYGIF
 # > 交管12123 去广告
 URL-REGEX,^https:\/\/gab\.122\.gov\.cn\/eapp\/m\/sysquery\/adver$,REJECT
 # > 京东极速版 去广告
-URL-REGEX,https://api.m.jd.com/client.action\?functionId=lite_advertising,REJECT
+URL-REGEX,^https://api.m.jd.com/client.action\?functionId=lite_advertising,REJECT
 # > 云闪付 去广告
 URL-REGEX,^https:\/\/wallet\.95516\.com\/s\/wl\/icon\/long,REJECT
 # > 威锋 去广告
